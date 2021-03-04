@@ -4,7 +4,7 @@
     "samples": [
       {
         "name": "MP3 Song",
-        "uri": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3"
+        "uri": "https://storage.googleapis.com/exoplayer-test-media-0/play.mp3"
       }
     ]
   },
